@@ -1,2 +1,2 @@
-# ds-algorithm-in-java
+# ds-algorithm-java
 Solving data structure and algorithm using Java
